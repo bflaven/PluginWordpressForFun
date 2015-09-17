@@ -10,7 +10,8 @@ Stable tag: 150915
 
 == Description ==
 
-A plugin to clone posts in simplified Chinese and convert it into traditional Chinese
+A plugin to clone posts in simplified Chinese and convert it into traditional Chinese. The most valuable in this plugin is ZhConversion_simp_to_trad.php :) Thanks to Sophie.
+
 
 == Screenshots ==
 
@@ -18,7 +19,7 @@ No way
 
 == Frequently Asked Questions ==
 
-For some explanations seethe website at flaven.fr
+For some explanations see the website at flaven.fr
 
 == Changelog ==
 
