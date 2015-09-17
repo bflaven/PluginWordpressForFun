@@ -133,7 +133,7 @@ add_action( 'admin_action_rd_duplicate_post_as_draft', 'rd_duplicate_post_as_dra
  */
 function rd_duplicate_post_link( $actions, $post ) {
 	if (current_user_can('edit_posts')) {
-		$actions['duplicate'] = '<a href="admin.php?action=rd_duplicate_post_as_draft&amp;post=' . $post->ID . '" title="Duplicate this item" rel="permalink">Clone Simp to Trad</a>';
+		$actions['duplicate'] = '<a href="admin.php?action=rd_duplicate_post_as_draft&amp;post=' . $post->ID . '" title="Clone Simp to Trad" rel="permalink">Clone Simp to Trad</a>';
 	}
 	return $actions;
 }
