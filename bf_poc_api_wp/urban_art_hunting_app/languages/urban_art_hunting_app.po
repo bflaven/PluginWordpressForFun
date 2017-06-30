@@ -1,0 +1,184 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-10 10:56+0100\n"
+"PO-Revision-Date: 2013-11-08 07:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: French (France) <info@hecube.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+
+
+# bf_quotes_manager.php
+msgid "Blog Options"
+msgstr "Fuck you"
+
+# bf_quotes_manager.php
+msgid "Settings for Quotes"
+msgstr "Paramètres pour les citations"
+
+# bf_quotes_manager.php
+msgid "Quotes"
+msgstr "Citations"
+
+# bf_quotes_manager.php
+msgid "Quote"
+msgstr "Citation"
+
+# bf_quotes_manager.php
+msgid "Add New Quote"
+msgstr "Ajouter une Citation"
+
+# bf_quotes_manager.php
+msgid "Edit Quote"
+msgstr "Modifier Citation"
+
+# bf_quotes_manager.php
+msgid "New Quote"
+msgstr "Nouvelle Citation"
+
+# bf_quotes_manager.php
+msgid "All Quotes"
+msgstr "Toutes les Citations"
+
+# bf_quotes_manager.php
+msgid "View Quote"
+msgstr "Afficher Citation"
+
+# bf_quotes_manager.php
+msgid "No Quote Found"
+msgstr "Aucun Citation trouvée"
+
+# bf_quotes_manager.php
+msgid "No Quotes Found In Trash"
+msgstr "Aucune Citation trouvée dans la corbeille"
+
+# bf_quotes_manager.php
+msgid "Search Quotes"
+msgstr "Recherche Citations"
+
+# bf_quotes_manager.php
+msgid "Popular Quotes"
+msgstr "Citations les plus populaires"
+
+# bf_quotes_manager.php
+msgid "Separate guests with commas"
+msgstr "Séparer les Citations par des virgules"
+
+# bf_quotes_manager.php
+msgid "Add or remove Quotes"
+msgstr "Ajouter ou supprimer des Citations"
+
+# bf_quotes_manager.php
+msgid "Choose from the most popular Quotes"
+msgstr "Choisissez parmi les Citations les plus populaires"
+
+# bf_quotes_manager.php
+msgid "Authors"
+msgstr "Auteurs"
+
+# bf_quotes_manager.php
+msgid "Author"
+msgstr "Auteur"
+
+# bf_quotes_manager.php
+msgid "Edit Author"
+msgstr "Modifier Auteur"
+
+# bf_quotes_manager.php
+msgid "Update Author"
+msgstr "Mise à jour Auteur"
+
+# bf_quotes_manager.php
+msgid "Add New Author"
+msgstr "Ajouter Auteur"
+
+# bf_quotes_manager.php
+msgid "New Author Name"
+msgstr "Nouvel Auteur"
+
+# bf_quotes_manager.php
+msgid "All Authors"
+msgstr "Tous les Auteurs"
+
+# bf_quotes_manager.php
+msgid "Search Author"
+msgstr "Recherche Auteur"
+
+# bf_quotes_manager.php
+msgid "Popular Author"
+msgstr "Auteur Populaire"
+
+# bf_quotes_manager.php
+msgid "Separate Authors with commas"
+msgstr "Séparer les Auteurs avec une virgule"
+
+# bf_quotes_manager.php
+msgid "Add or remove Authors"
+msgstr "Ajouter ou supprimer des Auteurs"
+
+# bf_quotes_manager.php
+msgid "Choose from the most popular Authors"
+msgstr "Choisissez parmi les Auteurs les plus populaires"
+
+# bf_quotes_manager.php
+msgid "Flavors"
+msgstr "Saveurs"
+
+# bf_quotes_manager.php
+msgid "Flavor"
+msgstr "Saveur"
+
+# bf_quotes_manager.php
+msgid "Edit Flavor"
+msgstr "Modifier Saveur"
+
+# bf_quotes_manager.php
+msgid "Update Flavor"
+msgstr "Mise à jour Saveur"
+
+# bf_quotes_manager.php
+msgid "Add New Flavor"
+msgstr "Ajouter Saveur"
+
+# bf_quotes_manager.php
+msgid "New Flavor Name"
+msgstr "Nouvelle Saveur"
+
+# bf_quotes_manager.php
+msgid "All Flavors"
+msgstr "Toutes les Saveurs"
+
+# bf_quotes_manager.php
+msgid "Search Flavor"
+msgstr "Recherche Saveur"
+
+# bf_quotes_manager.php
+msgid "Popular Flavor"
+msgstr "Saveur Populaire"
+
+# bf_quotes_manager.php
+msgid "Separate Flavors with commas"
+msgstr "Séparer les Saveurs avec une virgule"
+
+# bf_quotes_manager.php
+msgid "Add or remove Flavors"
+msgstr "Ajouter ou supprimer des Saveurs"
+
+# bf_quotes_manager.php
+msgid "Choose from the most popular Flavors"
+msgstr "Choisissez parmi les Saveurs les plus populaires"
