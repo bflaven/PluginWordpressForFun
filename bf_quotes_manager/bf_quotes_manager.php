@@ -5,7 +5,7 @@ Plugin URI: http://flaven.fr
 Description: Full built-up quotes manager
 Version: 1.0
 Author: Bruno Flaven
-Author URI: http://hecube.net
+Author URI: http://flaven.fr
 */
 /* Pour les nice-urls  citations-auteurs-mantras */
 	
