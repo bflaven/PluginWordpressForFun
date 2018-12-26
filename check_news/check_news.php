@@ -176,14 +176,14 @@ $custom_meta_fields = array(
     array(
         'label' => __('itemReviewed Author Name'),
         'desc'  => __('itemReviewed e.g. ClaudioRelor FakeBook page'),
-        'tip'   => __('It is recommended to set type BlogPosting for posts, and leave empty or set to General for page post type', 'claimreview-textdomain'),
+        'tip'   => __('itemReviewed e.g. ClaudioRelor FakeBook page', 'claimreview-textdomain'),
         'id'    => $prefix.'_itemReviewed_author_name',
         'type'  => 'text'
     ),
         array(
         'label' => __('itemReviewed Author SameAs'),
-        'desc'  => __('URL e.g. https://www.facebook.com/ClaudioRelor/photos/a.3435443453/2119662481697641/'),
-        'tip'   => __('URL e.g. https://www.facebook.com/ClaudioRelor/photos/a.3435443453/2119662481697641/', 'claimreview-textdomain'),
+        'desc'  => __('URL e.g. https://www.factbook.com/ClaudioRelor/photos/a.3435443453/2119662481697641/'),
+        'tip'   => __('URL e.g. https://www.factbook.com/ClaudioRelor/photos/a.3435443453/2119662481697641/', 'claimreview-textdomain'),
         'id'    => $prefix.'_itemReviewed_author_sameAs',
         'type'  => 'textarea'
     ),
