@@ -183,7 +183,7 @@ $custom_meta_fields = array(
         array(
         'label' => __('itemReviewed Author SameAs'),
         'desc'  => __('URL e.g. https://www.facebook.com/ClaudioRelor/photos/a.3435443453/2119662481697641/'),
-        'tip'   => __('It is recommended to set type BlogPosting for posts, and leave empty or set to General for page post type', 'claimreview-textdomain'),
+        'tip'   => __('URL e.g. https://www.facebook.com/ClaudioRelor/photos/a.3435443453/2119662481697641/', 'claimreview-textdomain'),
         'id'    => $prefix.'_itemReviewed_author_sameAs',
         'type'  => 'textarea'
     ),
@@ -192,6 +192,7 @@ $custom_meta_fields = array(
     array(
     'label' => __('itemReviewed Date Published'),
     'desc'  => __('The publication date YYYY-MM-DD e.g. 2017-12-30'),
+    'tip'   => __('The publication date YYYY-MM-DD e.g. 2017-12-30'),
     'id'    => $prefix.'_itemReviewed_datePublished',
     'type'  => 'date'
     ),
@@ -208,6 +209,7 @@ $custom_meta_fields = array(
     array(
     'label' => __('itemReviewed claimReviewed', 'claimreview-textdomain'),
     'desc'  => __('Max 1 paragraph e.g. The most viral information ever or What You Don\'t Know About Conspiracy May Shock You', 'claimreview-textdomain'),
+    'tip'  => __('Max 1 paragraph e.g. The most viral information ever or What You Don\'t Know About Conspiracy May Shock You', 'claimreview-textdomain'),
     'id'    => $prefix.'_itemReviewed_claimReviewed',
     'type'  => 'textarea'
     ),
@@ -215,6 +217,7 @@ $custom_meta_fields = array(
     array(
         'label'=> __('reviewRating ratingValue', 'claimreview-textdomain'),
         'desc'  => __('Pick one figure between 1 to 5, that is the degree of Truth', 'claimreview-textdomain'),
+        'tip'  => __('Pick one figure between 1 to 5, that is the degree of Truth', 'claimreview-textdomain'),
         'id'    => $prefix.'_reviewRating_ratingValue',
         'type'  => 'select',
         'options' => array (
