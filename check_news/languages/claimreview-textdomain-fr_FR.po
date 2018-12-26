@@ -1,0 +1,43 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-10 10:56+0100\n"
+"PO-Revision-Date: 2018-12-22 11:35+0100\n"
+"Last-Translator: \n"
+"Language-Team: French (France) <info@hecube.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2\n"
+"Language: fr_FR\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+msgid "Fact Check"
+msgstr "FR Fact Check"
+
+msgid "Yes, it is a Fact Check Post:"
+msgstr "Oui, c'est un Article Fact Check :"
+
+msgid "Fact Checked Status"
+msgstr "Statut Fact Checked"
+
+msgid "If you check this box, this post will be considered \"Fact Check\", do not to forget to fill in the fields for the ClaimReview JSON-LD Header in the Fact Check Details Box."
+msgstr "Si vous cochez cette case, ce article sera considéré comme \"Fact Check\", n'oubliez pas de remplir les champs pour l'en-tête ClaimReview JSON-LD dans la boîte Fact Check Details."
+
+msgid "Fact Check Details"
+msgstr "FR Fact Check Details"
+
+msgid "Field Label"
+msgstr "Intitulé du champs"
+
+msgid "A description for the field."
+msgstr "Une description du champs."
