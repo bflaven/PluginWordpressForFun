@@ -3,6 +3,10 @@ Tackling the fact-checking issue and the truth's relative notion in media is ska
 
 Just a quick WordPress Plugin based on the request that was made to me, how  to add a ClaimReview structured data element in an article.
 
+
+
+- [ClaimReview, Fact Check – Using ClaimReview structured data element to Fact Check articles and build a WordPress plugin for it](http://flaven.fr/2018/12/claimreview-fact-check-using-claimreview-structured-data-element-to-fact-check-articles-and-build-a-wordpress-plugin-for-it/)
+
 As I was focusing on how to understand and explain to developers the "Fact Check" documentation.
 
 - [Fact Check from Google](https://developers.google.com/search/docs/data-types/factcheck)
