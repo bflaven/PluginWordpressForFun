@@ -5,8 +5,8 @@ Just a quick WordPress Plugin based on the request that was made to me, how  to 
 
 As I was focusing on how to understand and explain to developers the "Fact Check" documentation.
 
-[Fact Check from Google](https://developers.google.com/search/docs/data-types/factcheck)
-[Testing tool for ClaimReview Structured Data](https://search.google.com/structured-data/testing-tool)
+- [Fact Check from Google](https://developers.google.com/search/docs/data-types/factcheck)
+- [Testing tool for ClaimReview Structured Data](https://search.google.com/structured-data/testing-tool)
 
 ## Description
 
