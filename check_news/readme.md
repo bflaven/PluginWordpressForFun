@@ -28,7 +28,7 @@ As I was focusing on how to understand and explain to developers the "Fact Check
 ```
 
 ## Field names plugin description
-| Field Number   |      Field Label      |  Field Name |  Field Tooltip |Field Description|
+|Number|Label|Name|Tooltip|Description|
 |----------|:-------------:|------:|------:|------:|
 |1|Fact Check Status|itemReviewed_status|If you check this box, this post will be considered "Fact Check", do not to forget to fill in the fields for the ClaimReview JSON-LD Header in the Fact Check Details Box.|If you check this box, this post will be considered "Fact Check", do not to forget to fill in the fields for the ClaimReview JSON-LD Header in the Fact Check Details Box.|
 |2|itemReviewed Author Name|itemReviewed_author_name|This is the name of the author of the itemReviewed e.g. ClaudioRelor FakeBook page|This is a free text input field in the seizure e.g. ClaudioRelor FakeBook page|
