@@ -39,7 +39,9 @@ So you have the following elements:
 
 **3.2 main elements: Post Type & Custom Taxonomy**
 
-*Custom variables attached to the Post Type `bf_videos_manager`. I always choose self-explanatory names so I do not have to remember the definition.*
+*Custom variables attached to the Post Type `bf_videos_manager`.*
+
+*I always choose self-explanatory names so I do not have to remember the definition.*
 
 - bf_videos_manager_video_link
 - bf_videos_manager_video_id
@@ -105,17 +107,20 @@ const myplugin_text_domain = 'bf_videos_manager';
 
 
 ### 4.1 MAIN COLOR
-Some explanations on color for the Zaatar WP theme main color is "#4F1993;"
+Some explanations on color for the Zaatar WP theme main color is "#4F1993;".
+
 Source: https://www.color-hex.com/color/4f1993
 
 
 ### 4.2 GENERATE A PALETTE
-A good source of inspiration to determine colors
+A good source of inspiration to determine colors.
+
 Check out https://mycolor.space/?hex=%234F1993&sub=1
 
 
 ### 4.3 PLACEHOLDER IMAGE FOR VIDEO
 It is always to tedious to create play buttons so here is the set I am using.
+
 
 ``` bash
 #NEW_PURPLE (#5e3863)
@@ -175,6 +180,7 @@ purple_render_play_triangle_like_585x330.png
 
 ### 4.4 ICONS FOR ZAATAR
 I need some icons for brand such as Amazon, GitHub, YouTube to make promotion but has somehow compliant with the Zaatar WP design.
+
 
 ```bash
 # Amazon
