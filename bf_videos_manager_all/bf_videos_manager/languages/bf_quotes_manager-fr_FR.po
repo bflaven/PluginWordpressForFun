@@ -1,0 +1,179 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-10 10:56+0100\n"
+"PO-Revision-Date: 2013-11-08 07:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: French (France) <info@hecube.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# bf_videos_manager.php
+msgid "Settings for Videos"
+msgstr "Paramètres pour les vidéos"
+
+# bf_videos_manager.php
+msgid "Videos"
+msgstr "Vidéos"
+
+# bf_videos_manager.php
+msgid "Video"
+msgstr "Vidéo"
+
+# bf_videos_manager.php
+msgid "Add New Video"
+msgstr "Ajouter une Vidéo"
+
+# bf_videos_manager.php
+msgid "Edit Video"
+msgstr "Modifier Vidéo"
+
+# bf_videos_manager.php
+msgid "New Video"
+msgstr "Nouvelle Vidéo"
+
+# bf_videos_manager.php
+msgid "All Videos"
+msgstr "Toutes les Vidéos"
+
+# bf_videos_manager.php
+msgid "View Video"
+msgstr "Afficher Vidéo"
+
+# bf_videos_manager.php
+msgid "No Video Found"
+msgstr "Aucun Vidéo trouvée"
+
+# bf_videos_manager.php
+msgid "No Videos Found In Trash"
+msgstr "Aucune Vidéo trouvée dans la corbeille"
+
+# bf_videos_manager.php
+msgid "Search Videos"
+msgstr "Recherche Vidéos"
+
+# bf_videos_manager.php
+msgid "Popular Videos"
+msgstr "Citations les plus populaires"
+
+# bf_videos_manager.php
+msgid "Separate videos with commas"
+msgstr "Séparer les vidéos par des virgules"
+
+# bf_videos_manager.php
+msgid "Add or remove Quotes"
+msgstr "Ajouter ou supprimer des vidéos"
+
+# bf_videos_manager.php
+msgid "Choose from the most popular Quotes"
+msgstr "Choisissez parmi les vidéos les plus populaires"
+
+# bf_videos_manager.php
+msgid "Categories"
+msgstr "Catégories"
+
+# bf_videos_manager.php
+msgid "Category"
+msgstr "Catégorie"
+
+# bf_videos_manager.php
+msgid "Edit Category"
+msgstr "Modifier Catégorie"
+
+# bf_videos_manager.php
+msgid "Update Category"
+msgstr "Mise à jour Catégorie"
+
+# bf_videos_manager.php
+msgid "Add New Category"
+msgstr "Ajouter Catégorie"
+
+# bf_videos_manager.php
+msgid "New Category Name"
+msgstr "Nouvel Catégorie"
+
+# bf_videos_manager.php
+msgid "All Categories"
+msgstr "Tous les Catégories"
+
+# bf_videos_manager.php
+msgid "Search Category"
+msgstr "Recherche Category"
+
+# bf_videos_manager.php
+msgid "Popular Category"
+msgstr "Catégorie Populaire"
+
+# bf_videos_manager.php
+msgid "Separate Categories with commas"
+msgstr "Séparer les Catégories avec une virgule"
+
+# bf_videos_manager.php
+msgid "Add or remove Categories"
+msgstr "Ajouter ou supprimer des Catégories"
+
+# bf_videos_manager.php
+msgid "Choose from the most popular Categories"
+msgstr "Choisissez parmi les Catégories les plus populaires"
+
+# bf_videos_manager.php
+msgid "Tags"
+msgstr "Tags"
+
+# bf_videos_manager.php
+msgid "Tag"
+msgstr "Tag"
+
+# bf_videos_manager.php
+msgid "Edit Tag"
+msgstr "Modifier Tag"
+
+# bf_videos_manager.php
+msgid "Update Tag"
+msgstr "Mise à jour Tag"
+
+# bf_videos_manager.php
+msgid "Add New Tag"
+msgstr "Ajouter Tag"
+
+# bf_videos_manager.php
+msgid "New Tag Name"
+msgstr "Nouveau Tag"
+
+# bf_videos_manager.php
+msgid "All Tags"
+msgstr "Toutes les Tags"
+
+# bf_videos_manager.php
+msgid "Search Tag"
+msgstr "Recherche Tag"
+
+# bf_videos_manager.php
+msgid "Popular Tag"
+msgstr "Tag Populaire"
+
+# bf_videos_manager.php
+msgid "Separate Tags with commas"
+msgstr "Séparer les Tags avec une virgule"
+
+# bf_videos_manager.php
+msgid "Add or remove Flavors"
+msgstr "Ajouter ou supprimer des Tags"
+
+# bf_videos_manager.php
+msgid "Choose from the most popular Tags"
+msgstr "Choisissez parmi les Tags les plus populaires"
+
