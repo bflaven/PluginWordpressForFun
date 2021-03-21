@@ -29,9 +29,24 @@ The naming covention is the following
 
 So you have the following elements:
 
+**3.1 main elements: Post Type & Custom Taxonomy**
+*The core element for the plugin.*
+
 - bf_videos_manager (Post Type)
 - bf_videos_manager_tag (Custom Taxonomy)
 - bf_videos_manager_cat (Custom Taxonomy)
+
+**3.2 main elements: Post Type & Custom Taxonomy**
+*Custom variables attached to the Post Type `bf_videos_manager`. I always choose self-explanatory names so I do not have to remember the definition.*
+
+- bf_videos_manager_video_link
+- bf_videos_manager_video_id
+- bf_videos_manager_video_link_to_content
+- bf_videos_manager_video_link_to_amazon
+- bf_videos_manager_video_link_to_github
+- bf_videos_manager_video_link_to_youtube_channel
+
+
 
 **(i) Declare the Post Type**
 ```php
