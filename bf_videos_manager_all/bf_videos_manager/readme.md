@@ -1,4 +1,4 @@
-=== bf_videos_manager ( Build-up for quotes manager ) ===
+=== bf_videos_manager ( Build-up for ~quotes~ videos manager ) ===
 
 Version: 1.0
 Stable tag: 1.0
@@ -13,7 +13,7 @@ Stable tag: 1.0
 == Description ==
 
 Youtube Video manager.
-The plugin has been
+The plugin has been made for ~quotes~, sorry videos.
 
 == Screenshots ==
 
