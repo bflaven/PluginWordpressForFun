@@ -3,7 +3,7 @@
 ## 1. WP PLUGIN IN ONE SENTENCE
 I wanted to install video post-type on my Blog using WP.
 It takes almost 2 hours to create the plugin and 2 more hours to make few adjustments in the Zaatar WP theme that I am using then the real work started because of the web design or the UX experience that I wanted to provide.
-It was ugly then it turns acceptable. Maximum with a massive cut and paste 2 days. It was easier to create a plugin than to make a JSON YOUTUBE API retrieve to import all the stuff.
+It was ugly then it turns acceptable. The work at the maximum took me at least 2 days, with a massive cut and paste. It was easier to create a plugin than to make a JSON YOUTUBE API retrieve to import all the stuff.
 
 ``` bash
 .
