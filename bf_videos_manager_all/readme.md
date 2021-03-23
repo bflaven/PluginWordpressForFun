@@ -202,7 +202,7 @@ icons_for_promotion_youtube_white_square_585x330.png
 ```
 
 ### 4.5 ZA'ATAR OR ZAATAR DEFINITION
-Thanks for Alaa to have given the WP name [https://en.wikipedia.org/wiki/Za%27atar].
+Thanks for Alaa to have given me unintentionally the WP name [https://en.wikipedia.org/wiki/Za%27atar].
 
 
 
