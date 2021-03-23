@@ -119,7 +119,7 @@ Check out https://mycolor.space/?hex=%234F1993&sub=1
 
 
 ### 4.3 PLACEHOLDER IMAGE FOR VIDEO
-It is always to tedious to create play buttons so here is the set I am using.
+It is always very tedious to create play buttons so here is the set I am using.
 
 
 ``` bash
