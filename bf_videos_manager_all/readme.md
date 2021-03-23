@@ -179,8 +179,7 @@ purple_render_play_triangle_like_585x330.png
 ```
 
 ### 4.4 ICONS FOR ZAATAR
-I need some icons for brand such as Amazon, GitHub, YouTube to make promotion but has somehow compliant with the Zaatar WP design.
-
+I needed some icons for brand such as Amazon, GitHub, YouTube to make promotion on video post. It was also required to be a bit graphically compliant with the Zaatar WP design.
 
 ```bash
 # Amazon
