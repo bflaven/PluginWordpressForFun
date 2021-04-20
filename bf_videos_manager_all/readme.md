@@ -176,6 +176,13 @@ purple_render_play_585x330.png
 purple_render_play_again_sam_585x330.png
 purple_render_play_youtube_like_585x330.png
 purple_render_play_triangle_like_585x330.png
+
+#LUDWIG (#af001b)
+ludwig_render_play_585x330.png
+ludwig_render_play_again_sam_585x330.png
+ludwig_render_play_youtube_like_585x330.png
+ludwig_render_play_triangle_like_585x330.png
+
 ```
 
 ### 4.4 ICONS FOR ZAATAR
