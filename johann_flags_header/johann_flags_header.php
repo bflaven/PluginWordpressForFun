@@ -24,7 +24,6 @@ Class johannFlagsHeader {
 // Test to check the plugin activation johann_flags_header 
 const PLUGIN_MODIFY_HEADER_FOOTER_NAME='johann_flags_header';
 
-
     
     public function __construct() {            
                     $this->init();
