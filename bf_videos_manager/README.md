@@ -26,6 +26,6 @@ Check out bf_videos_manager.css in css/bf_videos_manager.css
 
 ## == Changelog ==
 
-## = 1.0 =
+**= 1.0 =**
 *Initial release.*
 *Chnage readme to make it in a correct format.*
