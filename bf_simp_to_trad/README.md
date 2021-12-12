@@ -24,5 +24,6 @@ For some explanations see the website at flaven.fr
 ## == Changelog ==
 
 **= 1.0 =**
+
 - *Initial release.*
 - *Chnage readme to make it in a correct format.

@@ -18,25 +18,28 @@ It contains 2 "uncompleted" plugins but sufficient plugins for the POC.
 
 
 ## == Screenshots ==
+
 See the post on flaven.fr
 
 
 ## == Changelog ==
 
 **= 1.0 - 2017-06-22 =**
-- * Fixed: release not bug fox cause no feedback
-- * Updated: No update as there is no feedback .
+- *Fixed: release not bug fox cause no feedback.*
+- *Updated: No update as there is no feedback.*
 
 
 ## == Installation ==
-Each plugin has its readme.txt
+Each plugin has its README.md
 
 
 
 ## == Frequently Asked Questions ==
 
 **User documentation**
+
 Nothing for the moment
 
 **Code/API documentation**
+
 Please see flaven.fr

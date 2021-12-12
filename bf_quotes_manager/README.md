@@ -21,6 +21,7 @@ No way
 ## == Frequently Asked Questions ==
 
 **= How do I change the style? =**
+
 Check out bf_quotes_manager.css in css/bf_quotes_manager.css
 
 
