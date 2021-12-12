@@ -1,0 +1,179 @@
+# kubrick theme pot file.
+# Copyright (C) 2008 WordPress
+# This file is distributed under the same license as the kubrick theme package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: 1.6\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-02-10 10:56+0100\n"
+"PO-Revision-Date: 2013-11-08 07:31+0100\n"
+"Last-Translator: \n"
+"Language-Team: French (France) <info@hecube.net>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n>1\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: _e;__;__ngettext:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# bf_videos_manager.php
+msgid "Settings for Videos"
+msgstr "Paramètres pour les vidéos"
+
+# bf_videos_manager.php
+msgid "Videos"
+msgstr "Vidéos"
+
+# bf_videos_manager.php
+msgid "Video"
+msgstr "Vidéo"
+
+# bf_videos_manager.php
+msgid "Add New Video"
+msgstr "Ajouter une Vidéo"
+
+# bf_videos_manager.php
+msgid "Edit Video"
+msgstr "Modifier Vidéo"
+
+# bf_videos_manager.php
+msgid "New Video"
+msgstr "Nouvelle Vidéo"
+
+# bf_videos_manager.php
+msgid "All Videos"
+msgstr "Toutes les Vidéos"
+
+# bf_videos_manager.php
+msgid "View Video"
+msgstr "Afficher Vidéo"
+
+# bf_videos_manager.php
+msgid "No Video Found"
+msgstr "Aucun Vidéo trouvée"
+
+# bf_videos_manager.php
+msgid "No Videos Found In Trash"
+msgstr "Aucune Vidéo trouvée dans la corbeille"
+
+# bf_videos_manager.php
+msgid "Search Videos"
+msgstr "Recherche Vidéos"
+
+# bf_videos_manager.php
+msgid "Popular Videos"
+msgstr "Citations les plus populaires"
+
+# bf_videos_manager.php
+msgid "Separate videos with commas"
+msgstr "Séparer les vidéos par des virgules"
+
+# bf_videos_manager.php
+msgid "Add or remove Quotes"
+msgstr "Ajouter ou supprimer des vidéos"
+
+# bf_videos_manager.php
+msgid "Choose from the most popular Quotes"
+msgstr "Choisissez parmi les vidéos les plus populaires"
+
+# bf_videos_manager.php
+msgid "Authors"
+msgstr "Auteurs"
+
+# bf_videos_manager.php
+msgid "Author"
+msgstr "Auteur"
+
+# bf_videos_manager.php
+msgid "Edit Author"
+msgstr "Modifier Auteur"
+
+# bf_videos_manager.php
+msgid "Update Author"
+msgstr "Mise à jour Auteur"
+
+# bf_videos_manager.php
+msgid "Add New Author"
+msgstr "Ajouter Auteur"
+
+# bf_videos_manager.php
+msgid "New Author Name"
+msgstr "Nouvel Auteur"
+
+# bf_videos_manager.php
+msgid "All Authors"
+msgstr "Tous les Auteurs"
+
+# bf_videos_manager.php
+msgid "Search Author"
+msgstr "Recherche Auteur"
+
+# bf_videos_manager.php
+msgid "Popular Author"
+msgstr "Auteur Populaire"
+
+# bf_videos_manager.php
+msgid "Separate Authors with commas"
+msgstr "Séparer les Auteurs avec une virgule"
+
+# bf_videos_manager.php
+msgid "Add or remove Authors"
+msgstr "Ajouter ou supprimer des Auteurs"
+
+# bf_videos_manager.php
+msgid "Choose from the most popular Authors"
+msgstr "Choisissez parmi les Auteurs les plus populaires"
+
+# bf_videos_manager.php
+msgid "Flavors"
+msgstr "Saveurs"
+
+# bf_videos_manager.php
+msgid "Flavor"
+msgstr "Saveur"
+
+# bf_videos_manager.php
+msgid "Edit Flavor"
+msgstr "Modifier Saveur"
+
+# bf_videos_manager.php
+msgid "Update Flavor"
+msgstr "Mise à jour Saveur"
+
+# bf_videos_manager.php
+msgid "Add New Flavor"
+msgstr "Ajouter Saveur"
+
+# bf_videos_manager.php
+msgid "New Flavor Name"
+msgstr "Nouvelle Saveur"
+
+# bf_videos_manager.php
+msgid "All Flavors"
+msgstr "Toutes les Saveurs"
+
+# bf_videos_manager.php
+msgid "Search Flavor"
+msgstr "Recherche Saveur"
+
+# bf_videos_manager.php
+msgid "Popular Flavor"
+msgstr "Saveur Populaire"
+
+# bf_videos_manager.php
+msgid "Separate Flavors with commas"
+msgstr "Séparer les Saveurs avec une virgule"
+
+# bf_videos_manager.php
+msgid "Add or remove Flavors"
+msgstr "Ajouter ou supprimer des Saveurs"
+
+# bf_videos_manager.php
+msgid "Choose from the most popular Flavors"
+msgstr "Choisissez parmi les Saveurs les plus populaires"
+
