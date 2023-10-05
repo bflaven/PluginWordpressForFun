@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: Meta Refresh Page
-Description: Allows users to set a meta refresh timer and URL.
+Description: Allows users to set a meta refresh timer and URL for a specific page ID
 Version: 1.0
 Plugin URI: http://flaven.fr
 Author: Bruno Flaven
