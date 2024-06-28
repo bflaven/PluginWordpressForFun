@@ -19085,6 +19085,17 @@ $zh2CN = array(
 '馬利共和國' => '马里共和国',
 '預設' => '默认',
 '滑鼠' => '鼠标',
+/* added on the 28/06/24 */
+// CN => TW
+'汇率 => 匯率', // Huilü
+'汇款 => 匯款', // Huikuan
+'外汇 => 外匯', // Waihui
+'汇兑 => 匯兌', // Huidui
+'汇费 => 匯費', // Huifei
+'汇合 => 匯合', // Huihe
+'汇行 => 匯行', // Huihang
+'汇丰银行 =>滙豐銀行', // Huifeng Yinhang
+'皇后 => 皇后', // Huanghou (la Reine)
 );
 
 $zh2SG = array(
